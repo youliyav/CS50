@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e52250a2-4747-4e7f-b405-9e7c2da6b0a2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Django/lecture3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Django/lecture3/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/airline/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/airline/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flights/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/flights/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flights/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/flights/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/airline.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/airline.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +33,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
